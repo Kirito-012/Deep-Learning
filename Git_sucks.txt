@@ -1,0 +1,6 @@
+If you have made some changes and dont care about the changes in the secondary laptop and only want to perform the pull operation, use 
+
+git reset --hard
+git pull
+
+This will force the pull
