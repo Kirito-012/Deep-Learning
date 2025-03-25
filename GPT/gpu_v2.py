@@ -1,12 +1,13 @@
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
+from torch.amp import GradScaler, autocast  
 
 # Hyperparameters
-batch_size = 64
+batch_size = 36
 block_size = 256 
 max_iters = 5001
-eval_interval = 500
+eval_interval = 250
 lr = 3e-4 
 device = "cuda" if torch.cuda.is_available() else "cpu"
 eval_iters = 200
@@ -33,6 +34,10 @@ data = torch.tensor(encode(text), dtype=torch.long)
 n = int(0.9 * len(data))
 train_data, val_data = data[:n], data[n:]
 
+# Moving the data to the device
+train_data = train_data.to(device)
+val_data = val_data.to(device)
+
 # Function to get a batch
 torch.manual_seed(1337)
 def get_batch(split):
@@ -40,7 +45,6 @@ def get_batch(split):
     idx = torch.randint(0, len(data)-block_size, (batch_size,))
     x = torch.stack([data[i:i+block_size] for i in idx])
     y = torch.stack([data[i+1:i+block_size+1] for i in idx])
-    x, y = x.to(device), y.to(device)
     return x, y
 
 # Loss Estimator
@@ -157,23 +161,27 @@ class BigramLanguageModel(nn.Module):
             idx = torch.cat((idx, idx_next), dim=1)
         return idx
 
-model = BigramLanguageModel()
-m = model.to(device)
+model = BigramLanguageModel().to(device)
+optimizer = torch.optim.Adam(model.parameters(), lr=lr)
+scaler = GradScaler('cuda')  # Updated scaler initialization
 
-optimizer = torch.optim.Adam(m.parameters(), lr=lr)
+import os
+os.environ["PYTORCH_CUDA_ALLOC_CONF"] = "expandable_segments:True"
 
-# Training Loop with Gradient Clipping
+# Training Loop
 for iter in range(max_iters):
-    if iter % 500 == 0:
+    if iter % eval_interval == 0:
         losses = estimateloss()
         print(f"iter: {iter}, train loss: {losses['train']}, val loss: {losses['val']}")
 
     xb, yb = get_batch("train")
-    logits, loss = model(xb, yb)
+    with autocast('cuda'):  # Updated autocast with device
+        logits, loss = model(xb, yb)
     optimizer.zero_grad(set_to_none=True)
-    loss.backward()
-    torch.nn.utils.clip_grad_norm_(model.parameters(), max_norm=1.0)  # Gradient clipping
-    optimizer.step()
-
+    scaler.scale(loss).backward()
+    scaler.unscale_(optimizer)
+    torch.nn.utils.clip_grad_norm_(model.parameters(), max_norm=1.0)
+    scaler.step(optimizer)
+    scaler.update()
 context = torch.zeros((1,1), dtype=torch.long).to(device)
-print(decode(m.generate(context, max_new_tokens=1000)[0].tolist()))
+print(decode(model.generate(context, max_new_tokens=1000)[0].tolist()))
