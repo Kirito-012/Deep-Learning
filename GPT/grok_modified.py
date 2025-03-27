@@ -1,8 +1,7 @@
 import torch
 import torch.nn as nn
-import lightning as L
 import torch.nn.functional as F
-from torch.cuda.amp import autocast, GradScaler  # For mixed precision training
+from torch.amp import autocast, GradScaler  # For mixed precision training
 
 with open('input.txt', 'r') as f:
     text = f.read()
@@ -15,7 +14,7 @@ learning_rate = 3e-3
 max_iters = 10001
 eval_interval = 500
 eval_iters = 200
-n_embed = 192  # Larger embedding size for better representation
+n_embed = 128  # Larger embedding size for better representation
 num_heads = 5  # More heads for richer attention
 n_block_layer = 5  # Deeper model for increased capacity
 dropout = 0.15 # Dropout rate for regularization
@@ -163,14 +162,14 @@ def estimate_loss(model):
         losses = torch.zeros(eval_iters)
         for k in range(eval_iters):
             x, y = get_batch(split)
-            with autocast():  # Mixed precision for evaluation
+            with autocast(device_type='cuda' if torch.cuda.is_available() else 'cpu'):  # Specify device_type
                 logits, loss = model(x, y)
             losses[k] = loss.item()
         output[split] = losses.mean()
     model.train()  # Back to training mode
     return output
 
-# Initiating the model
+# Initialize model and training components
 model = BigramLanguageModel(vocab_size).to(device)
 optimizer = torch.optim.AdamW(model.parameters(), lr=learning_rate)
 scaler = GradScaler()  # For mixed precision training
@@ -186,7 +185,7 @@ for iter in range(max_iters):
     x, y = get_batch('train')
     optimizer.zero_grad()
     
-    with autocast():  # Mixed precision training
+    with autocast(device_type='cuda' if torch.cuda.is_available() else 'cpu'):  # Specify device_type
         logits, loss = model(x, y)
     
     scaler.scale(loss).backward()  # Scale gradients for mixed precision
