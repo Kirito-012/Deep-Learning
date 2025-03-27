@@ -200,3 +200,5 @@ for iter in range(max_iters):
 fill = torch.zeros((1, 1), dtype=torch.long).to(device)
 output = decode(model.generate(fill, 600)[0].tolist())
 print("Generated output:\n", output)
+
+

@@ -1,0 +1,89 @@
+For test.py
+
+With just optimizer
+Iter 5000: Train Loss --> 2.471097946166992, Val Loss --> 2.5023815631866455
+
+With lm_head
+Iter 5000: Train Loss --> 2.508305549621582, Val Loss --> 2.5384879112243652
+
+With Single Self-Attention Head
+Iter 5000: Train Loss --> 2.417829990386963, Val Loss --> 2.476794481277466
+
+
+With Multi Self-Attention Heads, Blocks, FeedForward Neural Network
+With parameters----
+batch_size = 6
+block_size = 16
+learning_rate = 0.01
+max_iters = 5001
+eval_interval = 500
+eval_iters = 200
+n_embed = 32
+num_heads = 2
+n_block_layer = 2
+Iter 5000: Train Loss --> 2.045814275741577, Val Loss --> 2.1536879539489746
+
+With Parameters----
+batch_size = 16
+block_size = 64
+learning_rate = 0.01
+max_iters = 5001
+eval_interval = 500
+eval_iters = 200
+n_embed = 64
+num_heads = 2
+n_block_layer = 2
+Iter 4500: Train Loss --> 1.6116217374801636, Val Loss --> 1.7777001857757568
+
+With Parameters----
+batch_size = 32
+block_size = 128
+learning_rate = 0.01
+max_iters = 5001
+eval_interval = 500
+eval_iters = 200
+n_embed = 64
+num_heads = 3
+n_block_layer = 3 
+Iter 5000: Train Loss --> 1.3884769678115845, Val Loss --> 1.6182160377502441
+
+
+With Parameters----
+batch_size = 64
+block_size = 128
+learning_rate = 0.01
+max_iters = 5001
+eval_interval = 500
+eval_iters = 200
+n_embed = 64
+num_heads = 3
+n_block_layer = 3
+Iter 5000: Train Loss --> 1.3323936462402344, Val Loss --> 1.597853183746338
+
+With Parameters----
+batch_size = 32
+block_size = 128
+learning_rate = 0.01
+max_iters = 5001
+eval_interval = 500
+eval_iters = 200
+n_embed = 64
+num_heads = 4
+n_block_layer = 4
+Iter 4500: Train Loss --> 1.356103777885437, Val Loss --> 1.576003909111023
+
+With Parameters---- Unkown
+Iter 10000: Train Loss --> 1.3269456624984741, Val Loss --> 1.5958278179168701
+
+With Parameters---- 
+batch_size = 64
+block_size = 128
+learning_rate = 3e-3
+max_iters = 10001
+eval_interval = 500
+eval_iters = 200
+n_embed = 128
+num_heads = 5
+n_block_layer = 5
+dropout = 0.15
+Iter 10000: Train Loss --> 1.1312, Val Loss --> 1.4582
