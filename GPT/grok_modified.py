@@ -8,16 +8,16 @@ with open('input.txt', 'r') as f:
 
 # ---------Constants---------
 vocab_size = len(set(text))
-batch_size = 64  # Increased for better GPU utilization
-block_size = 128  # Longer context for better dependency capture
+batch_size = 64
+block_size = 128
 learning_rate = 3e-3
 max_iters = 10001
 eval_interval = 500
 eval_iters = 200
-n_embed = 128  # Larger embedding size for better representation
-num_heads = 5  # More heads for richer attention
-n_block_layer = 5  # Deeper model for increased capacity
-dropout = 0.15 # Dropout rate for regularization
+n_embed = 128
+num_heads = 5
+n_block_layer = 5
+dropout = 0.15
 device = 'cuda' if torch.cuda.is_available() else 'cpu'
 
 # ---------------------------
