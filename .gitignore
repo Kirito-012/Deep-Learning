@@ -1,3 +1,7 @@
 venv/
-GPT/venv/
-Hugging_Face/.venv/
+vscode/
+
+.venv/
+.vscode/
+
+Voice_Processing/data/
