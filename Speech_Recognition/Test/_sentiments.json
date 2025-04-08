@@ -1,0 +1,2354 @@
+[
+    {
+        "sentiment": "POSITIVE",
+        "text": "Hello, guys.",
+        "start": 1600,
+        "end": 2460,
+        "confidence": 0.48826763,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "So RN now.",
+        "start": 3120,
+        "end": 6616,
+        "confidence": 0.7804568,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "Oh my God.",
+        "start": 6768,
+        "end": 7544,
+        "confidence": 0.4414059,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "Today is a starry sky.",
+        "start": 7592,
+        "end": 9064,
+        "confidence": 0.9139453,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "Today is a beautiful sky.",
+        "start": 9112,
+        "end": 10184,
+        "confidence": 0.98442763,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Today is.",
+        "start": 10232,
+        "end": 11016,
+        "confidence": 0.60989535,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "I don't see much light pollution there and it just seems beautiful.",
+        "start": 11168,
+        "end": 16300,
+        "confidence": 0.9359527,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "And today was not necessarily great, but it was okay.",
+        "start": 17280,
+        "end": 22440,
+        "confidence": 0.7978309,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "It was.",
+        "start": 22520,
+        "end": 23300,
+        "confidence": 0.61071014,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "Yeah, it was okay.",
+        "start": 24560,
+        "end": 25656,
+        "confidence": 0.8406646,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "Overall, I guess I couldn't study much.",
+        "start": 25688,
+        "end": 29064,
+        "confidence": 0.86213374,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Obvious reasons, you know, it.",
+        "start": 29232,
+        "end": 31540,
+        "confidence": 0.68503886,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "As long as I'm talking to her, I'm just not able to focus much on my studies because I just.",
+        "start": 31840,
+        "end": 39384,
+        "confidence": 0.7899842,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Yeah, you know, the reasons.",
+        "start": 39472,
+        "end": 41180,
+        "confidence": 0.61821866,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "And that's it in one line.",
+        "start": 43520,
+        "end": 46100,
+        "confidence": 0.65027326,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "So, yeah, we.",
+        "start": 47360,
+        "end": 50580,
+        "confidence": 0.66633797,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "I'm not gonna talk because of this whole thing.",
+        "start": 52330,
+        "end": 55950,
+        "confidence": 0.80900544,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Because of her.",
+        "start": 56490,
+        "end": 57378,
+        "confidence": 0.592006,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Like, I don't know.",
+        "start": 57434,
+        "end": 59390,
+        "confidence": 0.50203204,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Anyways, the lol.",
+        "start": 62970,
+        "end": 65794,
+        "confidence": 0.62451166,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "What am I even saving.",
+        "start": 65842,
+        "end": 66722,
+        "confidence": 0.64848423,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Whatever.",
+        "start": 66786,
+        "end": 67282,
+        "confidence": 0.5607153,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "What am I even saying?",
+        "start": 67346,
+        "end": 69550,
+        "confidence": 0.5043829,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "Today was a good day.",
+        "start": 70090,
+        "end": 71470,
+        "confidence": 0.98531055,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "I didn't do much.",
+        "start": 72250,
+        "end": 73442,
+        "confidence": 0.49068135,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "Basically today I actually Taught Prateeksh Class 11 maths started with sets because it's the easiest thing.",
+        "start": 73546,
+        "end": 82318,
+        "confidence": 0.8238281,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "And then I'm going to do trigonometry because that's the toughest thing.",
+        "start": 82374,
+        "end": 85290,
+        "confidence": 0.60064095,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "And he's always afraid of trigonometry.",
+        "start": 85670,
+        "end": 87774,
+        "confidence": 0.6488806,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "So I think that's one of the main reasons that.",
+        "start": 87822,
+        "end": 90190,
+        "confidence": 0.78594524,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Why we should actually focus on trigonometry a bit more.",
+        "start": 90230,
+        "end": 95022,
+        "confidence": 0.7608719,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "And it's also something which I think it's also something.",
+        "start": 95206,
+        "end": 101290,
+        "confidence": 0.80917954,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "It's also something which I think, you know, he need to be.",
+        "start": 112880,
+        "end": 116600,
+        "confidence": 0.810121,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "He needs to be taught that properly because.",
+        "start": 116640,
+        "end": 120020,
+        "confidence": 0.7476589,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "Well, yeah, and there's no reason for that.",
+        "start": 121680,
+        "end": 124456,
+        "confidence": 0.5736675,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "I think it is.",
+        "start": 124528,
+        "end": 126020,
+        "confidence": 0.6437971,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "It just needs to be.",
+        "start": 126480,
+        "end": 127720,
+        "confidence": 0.66504115,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "We just need to be taught properly.",
+        "start": 127760,
+        "end": 129496,
+        "confidence": 0.674767,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "And he's always afraid of trigonometry because he never really gets it.",
+        "start": 129688,
+        "end": 135022,
+        "confidence": 0.80984825,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "But you know, if he wants to take maths and all that, he will have to do the trigonometry and maths and physics and all that.",
+        "start": 135126,
+        "end": 143130,
+        "confidence": 0.8156482,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "So I think I'm just gonna try.",
+        "start": 143590,
+        "end": 145610,
+        "confidence": 0.5713198,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Like I'm not gonna force him to just take maths.",
+        "start": 146150,
+        "end": 148558,
+        "confidence": 0.6178814,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "I'm just gonna be open with him.",
+        "start": 148574,
+        "end": 149854,
+        "confidence": 0.7140275,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "But at least I'm gonna give him a bit of taste of trigonometry and what it really is.",
+        "start": 149942,
+        "end": 153838,
+        "confidence": 0.69648075,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Actually, for that I'd have to.",
+        "start": 153894,
+        "end": 156078,
+        "confidence": 0.7940239,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "I'll have to do the revision myself.",
+        "start": 156134,
+        "end": 157810,
+        "confidence": 0.8046891,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "So, yeah, it's gonna be something.",
+        "start": 158150,
+        "end": 160702,
+        "confidence": 0.62623376,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "And yeah, I'm quite hungry right now.",
+        "start": 160886,
+        "end": 173950,
+        "confidence": 0.50793666,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "I didn't got to have the milkshake today for some reason.",
+        "start": 174070,
+        "end": 177438,
+        "confidence": 0.7250997,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "I just don't know.",
+        "start": 177494,
+        "end": 178238,
+        "confidence": 0.5729316,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "I just want to take things easy when I'm not working out.",
+        "start": 178294,
+        "end": 183930,
+        "confidence": 0.5642706,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "And being honest, I think I'm wasting quite a lot of time in the past couple of days.",
+        "start": 185340,
+        "end": 190400,
+        "confidence": 0.9190753,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "I think the progress I made from February 1st to March 1st was really something because I was able to focus more on what I was Doing.",
+        "start": 190860,
+        "end": 198884,
+        "confidence": 0.9336147,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "And the progress I've made from March 1 to April 1 is not very.",
+        "start": 199052,
+        "end": 204820,
+        "confidence": 0.55618286,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "It's not something which I can be proud of.",
+        "start": 204940,
+        "end": 206788,
+        "confidence": 0.56558675,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "It's there.",
+        "start": 206924,
+        "end": 207764,
+        "confidence": 0.6278872,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "The progress is definitely there.",
+        "start": 207852,
+        "end": 209220,
+        "confidence": 0.78812236,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "But it's not as big as it should be.",
+        "start": 209260,
+        "end": 211306,
+        "confidence": 0.58731216,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Should have been.",
+        "start": 211428,
+        "end": 212490,
+        "confidence": 0.62923217,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "So, yeah, I know why I'm wasting so much time.",
+        "start": 213910,
+        "end": 219502,
+        "confidence": 0.90645283,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "But I don't know.",
+        "start": 219606,
+        "end": 222878,
+        "confidence": 0.58781123,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "I think in the end all I want is her.",
+        "start": 223014,
+        "end": 226730,
+        "confidence": 0.5648507,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "And I don't know whether I'm gonna get her or not.",
+        "start": 227430,
+        "end": 234462,
+        "confidence": 0.6359148,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "But as sure as hell do gonna get her.",
+        "start": 234566,
+        "end": 239490,
+        "confidence": 0.5174806,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "If that makes sense.",
+        "start": 240430,
+        "end": 241930,
+        "confidence": 0.67473537,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "I want to.",
+        "start": 242510,
+        "end": 244770,
+        "confidence": 0.5719087,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "The way I see it is if we stop talking now, then I will be depressed.",
+        "start": 248430,
+        "end": 256890,
+        "confidence": 0.93458104,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "I will be in excruciating pain.",
+        "start": 258190,
+        "end": 261690,
+        "confidence": 0.92696667,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "That won't be nice.",
+        "start": 262590,
+        "end": 263920,
+        "confidence": 0.9497496,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "He can.",
+        "start": 264030,
+        "end": 264684,
+        "confidence": 0.48804364,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "No matter how much.",
+        "start": 264772,
+        "end": 265960,
+        "confidence": 0.65105295,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "Because if I were to stop talking to her, I need to do something which is gonna make her hate me and that kind of stuff.",
+        "start": 267620,
+        "end": 275164,
+        "confidence": 0.87846565,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Because that's the only way we're gonna stop talking.",
+        "start": 275292,
+        "end": 277244,
+        "confidence": 0.5742604,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "Because I don't have it in me to stop to say to her that don't message me from.",
+        "start": 277292,
+        "end": 281240,
+        "confidence": 0.668855,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "So, yeah, I don't have it in me.",
+        "start": 294990,
+        "end": 298710,
+        "confidence": 0.72863126,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "And the reason that I'm not doing that is because I just can't help but hope that things will be better between us.",
+        "start": 298750,
+        "end": 306214,
+        "confidence": 0.4984008,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Eventually they will be.",
+        "start": 306302,
+        "end": 307382,
+        "confidence": 0.6809289,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "If I try hard enough, things will get better.",
+        "start": 307406,
+        "end": 310290,
+        "confidence": 0.87648004,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "But it doesn't have to end.",
+        "start": 311070,
+        "end": 313190,
+        "confidence": 0.7132326,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "It never have to end.",
+        "start": 313230,
+        "end": 314690,
+        "confidence": 0.66215634,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "I can get her and things will eventually get better.",
+        "start": 315800,
+        "end": 318288,
+        "confidence": 0.8148981,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "That's how I look at it.",
+        "start": 318344,
+        "end": 319900,
+        "confidence": 0.7733372,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "And.",
+        "start": 321080,
+        "end": 321872,
+        "confidence": 0.61894137,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Yeah, yeah, that's all.",
+        "start": 322056,
+        "end": 342202,
+        "confidence": 0.60714465,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Today I basically taught Pratyaksh about sets.",
+        "start": 342306,
+        "end": 346314,
+        "confidence": 0.91956776,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "It's the first unit I.",
+        "start": 346362,
+        "end": 349510,
+        "confidence": 0.812946,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "It's kind of fun actually.",
+        "start": 351410,
+        "end": 352810,
+        "confidence": 0.95786804,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "You know, I can do that instead of watching anime or stuff.",
+        "start": 352930,
+        "end": 356750,
+        "confidence": 0.6352617,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "I.",
+        "start": 357410,
+        "end": 358150,
+        "confidence": 0.54979,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "But I don't have much time, you know, I don't have time at all actually.",
+        "start": 363250,
+        "end": 368160,
+        "confidence": 0.61026067,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "I don't know, but I think I.",
+        "start": 396070,
+        "end": 406570,
+        "confidence": 0.68808466,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Actually I wrote a couple of things about her and.",
+        "start": 407190,
+        "end": 414250,
+        "confidence": 0.89690775,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "Oh, actually, I'm sorry.",
+        "start": 415990,
+        "end": 418068,
+        "confidence": 0.7012245,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Fufaji came so I had to like stop the recording.",
+        "start": 418214,
+        "end": 421016,
+        "confidence": 0.6306089,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "And now I forgot where I was talking.",
+        "start": 421048,
+        "end": 422952,
+        "confidence": 0.6549116,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "But I was talking about actually.",
+        "start": 423096,
+        "end": 424648,
+        "confidence": 0.8391168,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "Anyways, so like today actually, I think it was pretty good because I actually got to say things which I really feel about.",
+        "start": 424784,
+        "end": 432744,
+        "confidence": 0.9782493,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "And I said them even though she might not read them.",
+        "start": 432912,
+        "end": 436376,
+        "confidence": 0.70811564,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Like, she might not have read them, she might not yet read read them.",
+        "start": 436448,
+        "end": 441640,
+        "confidence": 0.58096564,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "But thing is, I wanted to tell her that, you know, I wanted to say things to her.",
+        "start": 441760,
+        "end": 447314,
+        "confidence": 0.77165264,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "It was not bad.",
+        "start": 447482,
+        "end": 448418,
+        "confidence": 0.80534756,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "It was just my feelings and how I just want us to be.",
+        "start": 448474,
+        "end": 451874,
+        "confidence": 0.76368934,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "That's all.",
+        "start": 452042,
+        "end": 452994,
+        "confidence": 0.5908356,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "But yeah, I think it's better, you know.",
+        "start": 453162,
+        "end": 455842,
+        "confidence": 0.64764905,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "Actually it's pretty embarrassing to say it because I don't see myself as someone who cries.",
+        "start": 455946,
+        "end": 464082,
+        "confidence": 0.9533936,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "But today I ended up crying while writing that paragraph.",
+        "start": 464146,
+        "end": 467570,
+        "confidence": 0.8339749,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "While writing those paragraphs, I actually couldn't stop crying.",
+        "start": 467650,
+        "end": 472188,
+        "confidence": 0.5056682,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "There were just tears falling and falling and I couldn't control them.",
+        "start": 472284,
+        "end": 475240,
+        "confidence": 0.7526254,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "I was just striping and it was all blurry.",
+        "start": 476100,
+        "end": 478572,
+        "confidence": 0.57416576,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "But I was just typing because I just wanted to.",
+        "start": 478636,
+        "end": 480556,
+        "confidence": 0.7148715,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "I just wanted to let know that my feelings are this.",
+        "start": 480628,
+        "end": 484972,
+        "confidence": 0.79419947,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "And no matter what you choose, I'll be okay with it.",
+        "start": 485156,
+        "end": 488396,
+        "confidence": 0.749386,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "It's your decision.",
+        "start": 488548,
+        "end": 489436,
+        "confidence": 0.73306423,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "In the end, all I want to say is I'm here for you and I will be.",
+        "start": 489508,
+        "end": 494040,
+        "confidence": 0.8349004,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "See, I want you to be with me.",
+        "start": 494910,
+        "end": 497510,
+        "confidence": 0.49198392,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "It's selfish, I know, but it's basic selfishness.",
+        "start": 497630,
+        "end": 502182,
+        "confidence": 0.86803573,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "I mean, I want to be with you.",
+        "start": 502246,
+        "end": 505286,
+        "confidence": 0.5052182,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "I want to make you happy, I want to see you smile, I want to see you the first thing in the morning.",
+        "start": 505438,
+        "end": 509430,
+        "confidence": 0.9622136,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "I want to hear your voice every single day.",
+        "start": 509550,
+        "end": 511730,
+        "confidence": 0.8659193,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "I want to make up jokes with you.",
+        "start": 512910,
+        "end": 515490,
+        "confidence": 0.50580865,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "I want to have a special language.",
+        "start": 516030,
+        "end": 517990,
+        "confidence": 0.565509,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "There are all these things which I want to do with you.",
+        "start": 518150,
+        "end": 520850,
+        "confidence": 0.56820047,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "And if you consider me selfish for that, I think I am selfish then.",
+        "start": 520990,
+        "end": 525114,
+        "confidence": 0.69310546,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "But still, I just want to tell you.",
+        "start": 525282,
+        "end": 528698,
+        "confidence": 0.7691736,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "You know what I think in this world, the one thing which matters the most is it's not money, it's not friends, it's not anything like, it's not anything materialistic.",
+        "start": 528754,
+        "end": 545226,
+        "confidence": 0.4677232,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "It's something which most people lack and that is a home.",
+        "start": 545418,
+        "end": 548470,
+        "confidence": 0.56122315,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "You know, when there's this always this feeling that most people kind of lack and don't get to feel this way.",
+        "start": 549310,
+        "end": 558530,
+        "confidence": 0.8093058,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "It's the feeling that, you know, it's a sense of belonging.",
+        "start": 558830,
+        "end": 562582,
+        "confidence": 0.5702904,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "You know, like you have a crappy day, your.",
+        "start": 562726,
+        "end": 565650,
+        "confidence": 0.78149813,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "Your boss shouted at you.",
+        "start": 566270,
+        "end": 569462,
+        "confidence": 0.6723362,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Yeah.",
+        "start": 569646,
+        "end": 570410,
+        "confidence": 0.54914474,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "One of your workmate left and this happened and you got.",
+        "start": 570750,
+        "end": 577560,
+        "confidence": 0.5864092,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "You were to present something and it went awfully bad and this and that.",
+        "start": 578500,
+        "end": 582700,
+        "confidence": 0.8484225,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "But you know, there is always this thing.",
+        "start": 582740,
+        "end": 584684,
+        "confidence": 0.5980384,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "You know what?",
+        "start": 584772,
+        "end": 585580,
+        "confidence": 0.7042289,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "I'll get home and he'll be there and we'll talk and it will be okay.",
+        "start": 585700,
+        "end": 592080,
+        "confidence": 0.8357747,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "In the end, I'll have him.",
+        "start": 592900,
+        "end": 594680,
+        "confidence": 0.667527,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "So, you know, that's.",
+        "start": 595380,
+        "end": 596284,
+        "confidence": 0.74530214,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "That's a very big thing.",
+        "start": 596332,
+        "end": 597720,
+        "confidence": 0.74402434,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "If you have something you can return to, if you have something you can call your home to.",
+        "start": 599300,
+        "end": 603900,
+        "confidence": 0.6811919,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "And trust me, that's the best feeling there is.",
+        "start": 605320,
+        "end": 607776,
+        "confidence": 0.98019993,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "There is no bigger.",
+        "start": 607848,
+        "end": 609540,
+        "confidence": 0.4908171,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "There is no bigger or most important or more important thing than that.",
+        "start": 611240,
+        "end": 615424,
+        "confidence": 0.63482255,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "There is none you can have.",
+        "start": 615512,
+        "end": 618400,
+        "confidence": 0.5956717,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "You can be the richest guy in the world, but if you don't have a cum, if you don't have a sense of belonging, then it doesn't matter.",
+        "start": 618520,
+        "end": 624432,
+        "confidence": 0.44561842,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "All you are in the end of the day.",
+        "start": 624616,
+        "end": 626080,
+        "confidence": 0.72650826,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "Is sad.",
+        "start": 626120,
+        "end": 627140,
+        "confidence": 0.8507064,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "See, money.",
+        "start": 630050,
+        "end": 630762,
+        "confidence": 0.63359827,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "Money does buy you happiness, but only in certain areas.",
+        "start": 630866,
+        "end": 633434,
+        "confidence": 0.57460314,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "It cannot fill the void you have in your heart.",
+        "start": 633522,
+        "end": 635450,
+        "confidence": 0.73723555,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "And if you are philosophical, someone like me who feel things very deeply, who isn't a cold hearted.",
+        "start": 635490,
+        "end": 642510,
+        "confidence": 0.57310855,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "If you are someone like me who feel things very deeply, very, very deeply, intimately, then for me, I just want someone to come home too.",
+        "start": 644210,
+        "end": 653730,
+        "confidence": 0.6384221,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "I just want to be someone's home and I just want that person to be my home as well.",
+        "start": 653890,
+        "end": 658110,
+        "confidence": 0.7629564,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "I don't care what the world think.",
+        "start": 659130,
+        "end": 660482,
+        "confidence": 0.5943064,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "I don't care what others think.",
+        "start": 660506,
+        "end": 661666,
+        "confidence": 0.6065235,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "Fuck them.",
+        "start": 661738,
+        "end": 662290,
+        "confidence": 0.9480263,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Who are they?",
+        "start": 662330,
+        "end": 663310,
+        "confidence": 0.82491285,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "For me, you are there and that's enough.",
+        "start": 666730,
+        "end": 670350,
+        "confidence": 0.8265093,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "I have my eyes for you and I think there's nothing more to it.",
+        "start": 671370,
+        "end": 676670,
+        "confidence": 0.5776528,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "I'm not gonna have friends, I'm not gonna have any female friends or any female colleague whatsoever.",
+        "start": 678810,
+        "end": 684310,
+        "confidence": 0.79485303,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "But the condition is that I have you.",
+        "start": 684840,
+        "end": 687820,
+        "confidence": 0.74067396,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "I said a bunch of things and I also said this and I kind of really wanted to let this out.",
+        "start": 690040,
+        "end": 695648,
+        "confidence": 0.76030505,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "And it was something like.",
+        "start": 695704,
+        "end": 698060,
+        "confidence": 0.77679926,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "It was something like I.",
+        "start": 701160,
+        "end": 704300,
+        "confidence": 0.8345841,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "If you're willing to choose your life and if you're willing to lose me, it's okay, you know, I'm okay with that.",
+        "start": 710370,
+        "end": 717990,
+        "confidence": 0.5264287,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "But you better be damn happy if that's what you choose.",
+        "start": 718770,
+        "end": 722190,
+        "confidence": 0.54740846,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Because your happiness in your life would come at the expense of someone's life and dream.",
+        "start": 723250,
+        "end": 730270,
+        "confidence": 0.46883917,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "I really wanted to let her know that because if she choose to go away from me, if she chooses to leave me behind, if she chooses to do all those things, if she chooses that we are not good for each other, then she better be damn happy with that.",
+        "start": 733250,
+        "end": 750430,
+        "confidence": 0.71163434,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "Because what she chose, it came at the expense of my whole life and my dreams.",
+        "start": 753050,
+        "end": 761560,
+        "confidence": 0.8077733,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "And I don't think I have anything other than those.",
+        "start": 761690,
+        "end": 764360,
+        "confidence": 0.6930345,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "I lost her, I lost my dreams and I lost my whole fucking peaceful life.",
+        "start": 766340,
+        "end": 771240,
+        "confidence": 0.94492304,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "I'm not kind of upset about that.",
+        "start": 772420,
+        "end": 776140,
+        "confidence": 0.6144482,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "But it's something which I just want to put pressure upon, you know, I just want to highlight that because, come on, my feelings matter down there.",
+        "start": 776180,
+        "end": 784920,
+        "confidence": 0.61527264,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "If she removes me from her life and still feels kind of sad and doesn't feel fulfilled or satiated, then what's what?",
+        "start": 786420,
+        "end": 796040,
+        "confidence": 0.89446247,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Then what was the point of removing me?",
+        "start": 796080,
+        "end": 799144,
+        "confidence": 0.543881,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "What was the point of breaking my heart?",
+        "start": 799312,
+        "end": 801016,
+        "confidence": 0.83207405,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "It does not make sense, right?",
+        "start": 801088,
+        "end": 802824,
+        "confidence": 0.91652,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "And so if she choose to break my heart, then at least then that be the cost of something which makes you happy.",
+        "start": 802992,
+        "end": 811336,
+        "confidence": 0.57982033,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "And I think if it is that and I'm okay with it, as long as it makes you happy, I'm okay.",
+        "start": 811448,
+        "end": 818346,
+        "confidence": 0.88175035,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "I live.",
+        "start": 818378,
+        "end": 819242,
+        "confidence": 0.62550586,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "I have lived and I live.",
+        "start": 819426,
+        "end": 822426,
+        "confidence": 0.6928858,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "I know that I'm not someone who is inclined to having A partner and not living alone and having people all the time around me.",
+        "start": 822498,
+        "end": 832346,
+        "confidence": 0.59163225,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Oh, trust me, I'm not like that.",
+        "start": 832498,
+        "end": 834154,
+        "confidence": 0.54331094,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "Not a bit.",
+        "start": 834242,
+        "end": 835242,
+        "confidence": 0.5460385,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "I'm actually complete opposite of that.",
+        "start": 835426,
+        "end": 837770,
+        "confidence": 0.6672138,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "I'm a person.",
+        "start": 837890,
+        "end": 838634,
+        "confidence": 0.73031455,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "I. I'm a person who find peace and solitude.",
+        "start": 838722,
+        "end": 841412,
+        "confidence": 0.60795456,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "But she is my only exception.",
+        "start": 841556,
+        "end": 843780,
+        "confidence": 0.5444782,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "That's the problem.",
+        "start": 843940,
+        "end": 844996,
+        "confidence": 0.86559093,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "She is my only exception to every single thing I am.",
+        "start": 845148,
+        "end": 848400,
+        "confidence": 0.6316653,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "I can focus on most of the things, almost anything which has happened to me.",
+        "start": 848700,
+        "end": 852372,
+        "confidence": 0.53967524,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "But if it's her, I can't focus.",
+        "start": 852556,
+        "end": 855040,
+        "confidence": 0.5220928,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "I can almost ignore every single thing there is.",
+        "start": 855580,
+        "end": 858468,
+        "confidence": 0.47842467,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "But if it's her, I can't ignore her.",
+        "start": 858604,
+        "end": 860720,
+        "confidence": 0.6458385,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "I can literally choose anything above anything.",
+        "start": 861980,
+        "end": 866250,
+        "confidence": 0.55923325,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "But if she's on either side of them, I'll choose her blindly.",
+        "start": 866830,
+        "end": 871690,
+        "confidence": 0.68574893,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "That's just how I am.",
+        "start": 872510,
+        "end": 874130,
+        "confidence": 0.58478105,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "It's like love is blind.",
+        "start": 874910,
+        "end": 876870,
+        "confidence": 0.5805678,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "You don't see the other options.",
+        "start": 876950,
+        "end": 878454,
+        "confidence": 0.53650206,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "You don't see the logical options.",
+        "start": 878502,
+        "end": 880730,
+        "confidence": 0.56124157,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "All you see is if she's there, I'll choose her.",
+        "start": 881070,
+        "end": 884902,
+        "confidence": 0.57958585,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Doesn't matter what the other side may have.",
+        "start": 885006,
+        "end": 887970,
+        "confidence": 0.69394773,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "It sounds a bit like I'm talking dreamy or something like that, but that's how I feel.",
+        "start": 890030,
+        "end": 897440,
+        "confidence": 0.73453134,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "That's how I have felt.",
+        "start": 898060,
+        "end": 899960,
+        "confidence": 0.7765736,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "That's why whenever someone's say bad about her, I stop them at that fucking moment because I hate it.",
+        "start": 901020,
+        "end": 908036,
+        "confidence": 0.97202516,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "Who are you to say that she's bad?",
+        "start": 908188,
+        "end": 909924,
+        "confidence": 0.63954824,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "Fuck you, man.",
+        "start": 910012,
+        "end": 911280,
+        "confidence": 0.9637873,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "She did what she thought was right.",
+        "start": 912060,
+        "end": 913492,
+        "confidence": 0.67875326,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "And I think that's enough.",
+        "start": 913516,
+        "end": 914800,
+        "confidence": 0.52843386,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "You do all the things you think you are right.",
+        "start": 919910,
+        "end": 921838,
+        "confidence": 0.7368813,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "You masturbate, you know that that's wrong, but you do right.",
+        "start": 921974,
+        "end": 926250,
+        "confidence": 0.6283978,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "What should I do?",
+        "start": 926630,
+        "end": 927614,
+        "confidence": 0.8381288,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "Blame you for it?",
+        "start": 927702,
+        "end": 928810,
+        "confidence": 0.6196441,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "People do all the things they shouldn't, but they do them.",
+        "start": 930550,
+        "end": 933790,
+        "confidence": 0.61294067,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "And they have the audacity to judge others on what they should have done.",
+        "start": 933910,
+        "end": 938686,
+        "confidence": 0.81666595,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "Like who the fuck are you?",
+        "start": 938758,
+        "end": 940330,
+        "confidence": 0.95841986,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "That's why I want to respect her.",
+        "start": 943680,
+        "end": 945512,
+        "confidence": 0.7894879,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "And I.",
+        "start": 945536,
+        "end": 945832,
+        "confidence": 0.7359249,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "You know what?",
+        "start": 945856,
+        "end": 946792,
+        "confidence": 0.7042289,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "I don't blame her.",
+        "start": 946976,
+        "end": 948296,
+        "confidence": 0.66107935,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "Not as much as I blame myself.",
+        "start": 948448,
+        "end": 950460,
+        "confidence": 0.6327986,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Actually.",
+        "start": 950960,
+        "end": 951700,
+        "confidence": 0.55904895,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "I am someone who is hard to be with.",
+        "start": 952560,
+        "end": 954808,
+        "confidence": 0.8742112,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "That's a fact.",
+        "start": 954944,
+        "end": 955832,
+        "confidence": 0.5492432,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "It's a fact.",
+        "start": 955936,
+        "end": 956900,
+        "confidence": 0.570686,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "It's a fact which has been like.",
+        "start": 957760,
+        "end": 959560,
+        "confidence": 0.80180156,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Which is.",
+        "start": 959600,
+        "end": 960376,
+        "confidence": 0.5865019,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Should be obvious to me a long time ago.",
+        "start": 960528,
+        "end": 962392,
+        "confidence": 0.6659373,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "But it was.",
+        "start": 962416,
+        "end": 963208,
+        "confidence": 0.61864024,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "I just was.",
+        "start": 963344,
+        "end": 964152,
+        "confidence": 0.6430001,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "I was just too naive to see was right there in front of my whole eyes.",
+        "start": 964256,
+        "end": 968482,
+        "confidence": 0.6439541,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Everything happened because I was like that.",
+        "start": 968576,
+        "end": 971006,
+        "confidence": 0.72402275,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "But I was just too naive to see it.",
+        "start": 971158,
+        "end": 973070,
+        "confidence": 0.6454674,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "I was just too oblivious to everything.",
+        "start": 973110,
+        "end": 974970,
+        "confidence": 0.8814426,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "She loved me for that.",
+        "start": 979270,
+        "end": 980890,
+        "confidence": 0.720461,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "She loved me despite knowing all my flaws and stuff.",
+        "start": 981670,
+        "end": 984850,
+        "confidence": 0.49312526,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "She loved me knowing how pathetic of a man I am.",
+        "start": 985910,
+        "end": 990010,
+        "confidence": 0.55606556,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "At that point.",
+        "start": 990310,
+        "end": 991150,
+        "confidence": 0.6368782,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "I was a child who was fucked up in every single word, in every single way there is emotionally fucked up physically not looking good.",
+        "start": 991190,
+        "end": 1000222,
+        "confidence": 0.9777893,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "Skeleton Mental traumas, overthinking, insecurity over possessiveness.",
+        "start": 1000326,
+        "end": 1006622,
+        "confidence": 0.9082354,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "It was every single thing that a person should not have.",
+        "start": 1006686,
+        "end": 1010782,
+        "confidence": 0.77937037,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "And I had that.",
+        "start": 1010966,
+        "end": 1011918,
+        "confidence": 0.69871724,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "And she still loved me.",
+        "start": 1011974,
+        "end": 1013610,
+        "confidence": 0.554025,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "She was there.",
+        "start": 1014070,
+        "end": 1015290,
+        "confidence": 0.7590192,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "She didn't choose to leave me after seeing my face or after knowing about my problems.",
+        "start": 1015830,
+        "end": 1019970,
+        "confidence": 0.5511059,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "She stood there and she chose to love me.",
+        "start": 1020480,
+        "end": 1023700,
+        "confidence": 0.5910539,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "I think that's something which I can never forget.",
+        "start": 1024240,
+        "end": 1027080,
+        "confidence": 0.64007723,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "I can fucking never forget that.",
+        "start": 1027240,
+        "end": 1029288,
+        "confidence": 0.82769257,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "Because in this stupid fucking materialistic world, everyone cares about money and looks and status.",
+        "start": 1029424,
+        "end": 1036248,
+        "confidence": 0.9668819,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Those three are the main things which people look for when they marry someone.",
+        "start": 1036344,
+        "end": 1040312,
+        "confidence": 0.85317886,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "Because she's handsome.",
+        "start": 1040496,
+        "end": 1041864,
+        "confidence": 0.90969396,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Either she's beautiful heart, either she's rich or not.",
+        "start": 1041992,
+        "end": 1045470,
+        "confidence": 0.452048,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Or either she has if she is, some good background status or not.",
+        "start": 1045640,
+        "end": 1050510,
+        "confidence": 0.786418,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "If she's from a poor family which does not have a background, I'm not gonna marry her.",
+        "start": 1051210,
+        "end": 1055010,
+        "confidence": 0.92325115,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "What the fuck?",
+        "start": 1055050,
+        "end": 1055990,
+        "confidence": 0.95752734,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "I don't care about any of those things.",
+        "start": 1057050,
+        "end": 1058990,
+        "confidence": 0.6438339,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "If the other person accepts me for who I am, then that's enough for me.",
+        "start": 1060090,
+        "end": 1063778,
+        "confidence": 0.83065116,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "I'm more than grateful for that.",
+        "start": 1063914,
+        "end": 1065630,
+        "confidence": 0.9766366,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "I don't care about what others think.",
+        "start": 1068970,
+        "end": 1070914,
+        "confidence": 0.5206979,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "That's my opinion.",
+        "start": 1071002,
+        "end": 1072230,
+        "confidence": 0.7987492,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "And it will be that way.",
+        "start": 1072710,
+        "end": 1073950,
+        "confidence": 0.7332575,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "No one can change that.",
+        "start": 1073990,
+        "end": 1075290,
+        "confidence": 0.55271435,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "That's why I love her.",
+        "start": 1076390,
+        "end": 1077930,
+        "confidence": 0.9608279,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Not because how she looks.",
+        "start": 1078630,
+        "end": 1079886,
+        "confidence": 0.67596835,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Not because maybe she's rich, maybe she's not.",
+        "start": 1079918,
+        "end": 1082670,
+        "confidence": 0.58264124,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Not because of her status.",
+        "start": 1082710,
+        "end": 1084210,
+        "confidence": 0.67795163,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "I love her because she accepted me for who I am.",
+        "start": 1084790,
+        "end": 1087690,
+        "confidence": 0.96912855,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Even though she decided to leave me after a while.",
+        "start": 1088230,
+        "end": 1090430,
+        "confidence": 0.6760219,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "But that doesn't change things.",
+        "start": 1090470,
+        "end": 1092090,
+        "confidence": 0.54565704,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "She still chose.",
+        "start": 1093910,
+        "end": 1095250,
+        "confidence": 0.71618503,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "I think that means something.",
+        "start": 1098720,
+        "end": 1100344,
+        "confidence": 0.79063046,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "That's beautiful.",
+        "start": 1100512,
+        "end": 1101820,
+        "confidence": 0.9767358,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "I never.",
+        "start": 1106160,
+        "end": 1107140,
+        "confidence": 0.45229897,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "I was never loved before until she came and loved me.",
+        "start": 1108640,
+        "end": 1114980,
+        "confidence": 0.4737438,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "And the world was never the same again.",
+        "start": 1117200,
+        "end": 1119220,
+        "confidence": 0.7833179,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "It might sound dramatic and maybe it is, but that's just how it is.",
+        "start": 1120000,
+        "end": 1125090,
+        "confidence": 0.6449847,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "That's just how it is.",
+        "start": 1129230,
+        "end": 1130690,
+        "confidence": 0.6258447,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "So, yeah, I think I just really wanted to let her know, like not all of that stuff, whatever.",
+        "start": 1151000,
+        "end": 1156208,
+        "confidence": 0.7984992,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Whatever I said is.",
+        "start": 1156304,
+        "end": 1157744,
+        "confidence": 0.76789206,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "I just don't know.",
+        "start": 1157912,
+        "end": 1159200,
+        "confidence": 0.5729316,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "It's like if she's a topic, I can talk forever, but a part of it, a subset of it.",
+        "start": 1159320,
+        "end": 1167008,
+        "confidence": 0.72784245,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "That's what I said to her and I really wanted to let her know that.",
+        "start": 1167064,
+        "end": 1170752,
+        "confidence": 0.53955156,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "And I did.",
+        "start": 1170936,
+        "end": 1171984,
+        "confidence": 0.6412051,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "And yeah, that's.",
+        "start": 1172152,
+        "end": 1175624,
+        "confidence": 0.68294615,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "That kind of made me at least satisfied.",
+        "start": 1175672,
+        "end": 1183500,
+        "confidence": 0.8972942,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "When we feel okay.",
+        "start": 1184160,
+        "end": 1185740,
+        "confidence": 0.681143,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "So there was something part of the day also I.",
+        "start": 1187760,
+        "end": 1192500,
+        "confidence": 0.8774802,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Not actually.",
+        "start": 1194320,
+        "end": 1195300,
+        "confidence": 0.674797,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Okay, that's all.",
+        "start": 1196160,
+        "end": 1197448,
+        "confidence": 0.5956327,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "I think I'll go downstairs now, eat and make some oats and stuff.",
+        "start": 1197584,
+        "end": 1203190,
+        "confidence": 0.8805882,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "And then I'll go sleep.",
+        "start": 1204890,
+        "end": 1206194,
+        "confidence": 0.7012905,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "I'm kind of tired.",
+        "start": 1206242,
+        "end": 1207430,
+        "confidence": 0.84833443,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Yeah, I think that's about it.",
+        "start": 1209610,
+        "end": 1211870,
+        "confidence": 0.7593173,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Okay then.",
+        "start": 1213210,
+        "end": 1214210,
+        "confidence": 0.6030205,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Bye.",
+        "start": 1214330,
+        "end": 1214530,
+        "confidence": 0.5137447,
+        "speaker": null
+    }
+]

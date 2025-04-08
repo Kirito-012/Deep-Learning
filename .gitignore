@@ -5,3 +5,10 @@ vscode/
 .vscode/
 
 Voice_Processing/data/
+
+Speech_Recognition/Speech_Recognition
+Speech_Recognition/Test/__pycache__
+Speech_Recognition/Sentiment_Analysis/__pycache__
+Speech_Recognition/Realtime_OpenAI/__pycache__
+Speech_Recognition/Podcast_Summarization/__pycache__
+Speech_Recognition/AssemblyAI/__pycache__
